@@ -1,0 +1,13 @@
+.header {
+  height: 3vh;
+  min-height: 20px;
+}
+
+.inner-editor-container {
+  height: 94vh;
+}
+
+footer {
+  height: 3vh;
+  min-height: 20px;
+}
