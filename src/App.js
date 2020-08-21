@@ -1,5 +1,5 @@
 import React from 'react';
-import EditorContainer from './Global/EditorContainer';
+import EditorContainer from './Global/containers/EditorContainer';
 
 function App() {
   return (
